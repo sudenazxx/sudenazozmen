@@ -1,20 +1,28 @@
-Merhaba, Ben [Sudenaz ÖZMEN]! 
+# 👋 Hi, I'm Sudenaz ÖZMEN!
 
- Bilgisayar Mühendisliği 2. Sınıf Öğrencisi
-Yazılım geliştirme yolculuğumda veri mühendisliği, yapay zeka ve full-stack teknolojilerine odaklanıyorum.
+I am a **Software Engineering Student** passionate about building modern applications, processing visual data, and exploring the power of data engineering. I focus on creating seamless user experiences, modern cloud databases, and containerized development workflows.
 
- Görüntü İşleme:** Python ve OpenCV kullanarak nesneleri tanıma ve görsel verileri işleme.
- Mobil Geliştirme:** Flutter ile göze hitap eden, kullanıcı dostu uygulamalar.
- Web Teknolojileri:** Interaktif ve görsel odaklı web deneyimleri.
- SQL ve Veri Tabanı Yönetimi üzerine çalışıyorum.
-Hedefim: Büyük veri setlerini anlamlı projelere dönüştürmek.
+---
 
+### 💻 Areas of Interest & Expertise
 
- Teknolojiler & Araçlar
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+* **📱 Mobile Development:** Crafting responsive, high-performance, and user-friendly mobile applications using **Flutter**, **React Native**, and **Android Studio**.
+* **🌐 Web Technologies:** Developing interactive, clean, and visually optimized modern web experiences with **Next.js** and **Tailwind CSS**.
+* **🗄️ Database & Cloud:** Designing robust data structures and managing cloud/relational databases with **MongoDB**, **MongoDB Atlas**, and **PostgreSQL**.
+* **👁️ Computer Vision:** Implementing object detection and visual data processing solutions using **Python** and **OpenCV**.
+* **⚙️ DevOps & Networking:** Setting up isolated, secure environments and modern deployment workflows using **Docker** and **Tailscale**.
 
-Bana buradan ulaşabilirsiniz: [https://www.linkedin.com/in/sudenaz-özmen-60756034a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+---
+
+### 🛠️ Tech Stack & Tools
+
+![Flutter](https://shields.io) ![React Native](https://shields.io) ![Next.js](https://shields.io) ![Python](https://shields.io) ![OpenCV](https://shields.io) 
+
+![MongoDB](https://shields.io) ![PostgreSQL](https://shields.io) ![Docker](https://shields.io) ![Tailscale](https://shields.io) ![Android Studio](https://shields.io) ![Git](https://shields.io)
+
+---
+
+### 🤝 Connect with Me
+
+Let's collaborate or chat about software engineering! 
+* 💼 **LinkedIn:** [Click here to visit my profile](https://linkedin.com)
